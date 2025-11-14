@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="blob:https://account.microsoft.com/5f071f9e-b57e-4398-819c-e016990f0afb" alt="FrontArcs Banner" width="100%" />
-</p>
-
 #  FrontArcs  
 ### High-Performance • Scalable • Beautiful Web Applications
 
