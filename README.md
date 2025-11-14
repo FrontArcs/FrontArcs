@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/fYVH2kmD/Logo-Dark.png" alt="FrontArcs Banner" width="100%" />
+  <img src="blob:https://account.microsoft.com/5f071f9e-b57e-4398-819c-e016990f0afb" alt="FrontArcs Banner" width="100%" />
 </p>
 
 #  FrontArcs  
